@@ -1,0 +1,24 @@
+{
+  "name": "chat_rabbit_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Temyc/Chat_rabbit_node.git"
+  },
+  "author": "Artyom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Temyc/Chat_rabbit_node/issues"
+  },
+  "homepage": "https://github.com/Temyc/Chat_rabbit_node#readme",
+  "dependencies": {
+    "amqplib": "^0.5.2",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
